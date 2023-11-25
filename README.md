@@ -46,18 +46,16 @@ endmodule
 
 ##Truth Table
 
-![image](https://github.com/HycinthD/Experiment--02-Implementation-of-combinational-logic-/assets/144870810/735e267d-7379-47c5-b5d4-7297ef88ac4d)
-
+![image](https://github.com/HycinthD/Experiment--02-Implementation-of-combinational-logic-/assets/144870810/843642f9-7e0a-4479-a937-3bd8ba17bafb)
 
 
 ## RTL realization
 
-![image](https://github.com/HycinthD/Experiment--02-Implementation-of-combinational-logic-/assets/144870810/b7daa918-c8a3-41ed-97dc-f9e8e8d741e7)
-
+![image](https://github.com/HycinthD/Experiment--02-Implementation-of-combinational-logic-/assets/144870810/de4cc307-b083-44d6-a2d1-3379a4dd0de7)
 
 ## Output:
 
-![image](https://github.com/HycinthD/Experiment--02-Implementation-of-combinational-logic-/assets/144870810/51a40568-be86-4255-b4f5-d5423d34fb5a)
+![image](https://github.com/HycinthD/Experiment--02-Implementation-of-combinational-logic-/assets/144870810/97d48cb8-ea14-4901-81a0-00538a771ea9)
 
 
 ## Result:
